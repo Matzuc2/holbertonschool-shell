@@ -1,2 +1,2 @@
 #!/bin/bash
-mv "/home/azur/holbertonschool-shell/basics/tmp/betty" "/home/azur/holbertonschool-shell/basics/tmp/my_first_directory"
+mv "/tmp/betty" "/tmp/my_first_directory"
